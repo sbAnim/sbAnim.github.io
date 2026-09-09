@@ -27,3 +27,10 @@ The strongest visual upgrade after this is to create intentional poster-frame JP
 - Changed the About page from centered copy to a conventional left-aligned paragraph layout.
 - Added a brief "My Contribution" breakdown below the main player on each project page.
 - Kept the smaller tiled homepage and large project-page player structure from v5.
+
+## v7 changes
+- Rebuilt the About page as a text-first editorial layout inspired by the supplied references.
+- Main family photo is Samuel + spouse; the two child photos are smaller secondary images.
+- About copy is fully left aligned and given more visual priority than the imagery.
+- Family images are resized and compressed for web delivery.
+- Removed the previous temporary solo portrait from the About page.
