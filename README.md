@@ -1,1 +1,23 @@
-# samuelbaese.github.io
+# Samuel Baese Portfolio — v5
+
+## What changed
+- Overall layout rebuilt to feel closer to a clean Zerply-style portfolio.
+- Content is centered and constrained to a narrower, more deliberate width.
+- Homepage project videos are now small thumbnail tiles instead of large embedded players.
+- Thumbnail videos are paused preview frames and are not meant to be played on the homepage.
+- Clicking a project tile opens the project page with a large video player.
+- Fortnite and Marvel's Midnight Suns project pages use one large player plus a grid of smaller clip thumbnails.
+- Clicking a clip thumbnail swaps it into the large player.
+- Demo reel remains a normal large player.
+- About and contact sections are centered and simplified.
+- LinkedIn and resume remain connected.
+
+## R2 media domain
+https://media.samuelbaese.com
+
+## Publish
+Copy everything in this folder to the root of the `sbAnim.github.io` repository.
+Keep the CNAME file.
+
+## Next polish pass
+The strongest visual upgrade after this is to create intentional poster-frame JPG/WebP thumbnails for each project rather than relying on browser-generated paused video frames.
