@@ -21,3 +21,9 @@ Keep the CNAME file.
 
 ## Next polish pass
 The strongest visual upgrade after this is to create intentional poster-frame JPG/WebP thumbnails for each project rather than relying on browser-generated paused video frames.
+
+## v6 changes
+- Added a profile photo to the About page.
+- Changed the About page from centered copy to a conventional left-aligned paragraph layout.
+- Added a brief "My Contribution" breakdown below the main player on each project page.
+- Kept the smaller tiled homepage and large project-page player structure from v5.
