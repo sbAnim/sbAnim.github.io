@@ -508,3 +508,11 @@ footer{
     margin-left:0 !important;
   }
 }
+
+
+/* v8 — slightly smaller About imagery */
+@media(min-width:861px){
+  .about-collage{
+    width:min(100%,350px);
+  }
+}
